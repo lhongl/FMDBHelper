@@ -1,0 +1,24 @@
+{
+  "name": "DAPublicModule",
+  "version": "0.0.1",
+  "summary": "身边医生公共模块.",
+  "description": "身边医生公共模块（上层模块，业务相关）",
+  "homepage": "http://DA/DAPublicModule",
+  "license": "MIT",
+  "authors": {
+    "caowenhui": "cwhello@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "http://DA/DAPublicModule.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Public/Classes",
+    "Public/Classes/**/*.{h,m}"
+  ],
+  "resources": "Public/Resources/*",
+  "requires_arc": true
+}

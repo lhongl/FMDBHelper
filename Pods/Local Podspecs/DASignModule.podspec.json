@@ -1,0 +1,23 @@
+{
+  "name": "DASignModule",
+  "version": "0.0.1",
+  "summary": "DASignModule.",
+  "description": "DASignModule",
+  "homepage": "http://DA/DASignModule",
+  "license": "MIT",
+  "authors": {
+    "caowenhui": "cwhello@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "http://DA/DASignModule.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "DASignModule/Classes",
+    "DASignModule/Classes/**/*.{h,m}"
+  ],
+  "resources": "DASignModule/Resources/*"
+}
